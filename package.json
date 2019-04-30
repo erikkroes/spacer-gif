@@ -1,0 +1,22 @@
+{
+  "name": "@erikkroes/spacer-gif",
+  "version": "0.0.1",
+  "description": "The most transparent way of adding space to your web page.",
+  "main": "spacer-gif.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikkroes/spacer-gif.git"
+  },
+  "keywords": [
+    "custom element",
+    "web components",
+    "spacer.gif",
+    "spacer gif"
+  ],
+  "author": "Erik Kroes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erikkroes/spacer-gif/issues"
+  },
+  "homepage": "https://github.com/erikkroes/spacer-gif#readme"
+}
