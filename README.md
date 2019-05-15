@@ -16,7 +16,7 @@ npm i @erikkroes/spacer-gif
 
 ## 🛠️ Use it 
 
-```
+```html
 <script async type="module" src="/node_modules/@erikkroes/spacer-gif/spacer-gif.js"></script>
 
 <spacer-gif height="1" width="1"></spacer-gif>
@@ -26,6 +26,6 @@ npm i @erikkroes/spacer-gif
 
 Add color!
 
-```
+```html
 <spacer-gif height="1" width="1" bgcolor="#DD6633"></spacer-gif>
 ```
