@@ -1,11 +1,11 @@
 {
-  "name": "@erikkroes/spacer-gif",
+  "name": "@erikkroes/center-div",
   "version": "0.0.1",
   "description": "The most transparent way of adding space to your web page.",
-  "main": "spacer-gif.js",
+  "main": "center-div.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erikkroes/spacer-gif.git"
+    "url": "git+https://github.com/erikkroes/center-div.git"
   },
   "keywords": [
     "custom element",
@@ -16,7 +16,7 @@
   "author": "Erik Kroes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/erikkroes/spacer-gif/issues"
+    "url": "https://github.com/erikkroes/center-div/issues"
   },
-  "homepage": "https://github.com/erikkroes/spacer-gif#readme"
+  "homepage": "https://github.com/erikkroes/center-div#readme"
 }

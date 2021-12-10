@@ -1,31 +1,30 @@
-# <spacer-gif\>
+# <center-div\>
 
-`<spacer-gif>` is the most transparent way of adding space to your web page.
+Center anything, without any CSS-knowledge!
 
-- Proven technology
-- No confusing CSS needed
-- Anybody can do it
-- Comprehensive API
-- 0 Dependencies
+- CSS-in-JS!
+- Atomic CSS!
+- Web Components!
+- Usable in ✨⭐ experimental ⭐✨ react
 
 ## 📦 Install it
 
 ```
-npm i @erikkroes/spacer-gif
+npm i @erikkroes/center-div
 ```
 
 ## 🛠️ Use it 
 
 ```html
-<script async type="module" src="/node_modules/@erikkroes/spacer-gif/spacer-gif.js"></script>
+<script async type="module" src="/node_modules/@erikkroes/center-div/center-div.js"></script>
 
-<spacer-gif height="1" width="1"></spacer-gif>
+<center-div><p>Hey all</p></center-div>
 ```
 
 ## ✨⭐ But wait, there's more! ⭐✨
 
-Add color!
+You can even center a `<div>`!
 
 ```html
-<spacer-gif height="1" width="1" bgcolor="#DD6633"></spacer-gif>
+<center-div><div></div></center-div>
 ```

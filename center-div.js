@@ -54,4 +54,4 @@ class SpacerGif extends HTMLElement {
   }
 }
 
-window.customElements.define('spacer-gif', SpacerGif);
+window.customElements.define('center-div', SpacerGif);
